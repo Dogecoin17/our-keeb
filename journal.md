@@ -2,7 +2,7 @@ title: "keeb"
 github: "our-keeb"
 description: "We've designed a custom keyboard!"
 created_at: "2026-08-29"
-total_time: "17.5h"
+total_time: "18.5h"
 
 ##August 23:<Creating the vision, learning>
 On day one I started by setting everything up, my gh repo, kicad etc, and started educating myself about pcbs and keyboard matrixes and stuff, 
@@ -46,3 +46,7 @@ She also tried pcb and 3D designing and she helped me with her goofy sketches. W
 
 Thank you for following us along, and for reading! :)>
 **Total time spent: 2h**
+
+##October 18:"migrating"
+KEEB got migrated to Fabricate soo, I have to alter some files, plus some of the items we chose are unavaible now so I made a new BOM
+**Total time spent: 1h**
